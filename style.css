@@ -1,0 +1,33 @@
+h1{
+    background-color: aliceblue;
+    color: blueviolet;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+div p{
+    color: rgb(216, 21, 21);
+}
+section p{
+    height: 10vh;
+    width: 40vw;
+    background-color: aqua;
+}
+.a{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+section div{
+    background-color: chocolate;
+    color: white;
+    height: 10vh;
+    width: 40vw;
+}
+h1{
+    background-color: cadetblue;
+    color: white;
+}
+div{
+    background-color: black;
+}
